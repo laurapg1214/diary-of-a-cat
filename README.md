@@ -1,0 +1,1 @@
+A test repo for cat diary entries; part of Altcademy Full Stack bootcamp.
